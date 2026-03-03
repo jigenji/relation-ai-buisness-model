@@ -1,0 +1,12 @@
+[
+  {"name": "AI自動返信（シンプル）",  "time": 5,  "ai_cost": 1.5},
+  {"name": "AI自動返信（標準）",      "time": 10, "ai_cost": 3.4},
+  {"name": "AI自動返信（複雑）",      "time": 20, "ai_cost": 6.8},
+  {"name": "返信文ドラフト提案",      "time": 15, "ai_cost": 5.1},
+  {"name": "問い合わせ自動分類",      "time": 3,  "ai_cost": 0.4},
+  {"name": "対応要約生成",            "time": 15, "ai_cost": 4.5},
+  {"name": "ナレッジ記事生成",        "time": 60, "ai_cost": 15.0},
+  {"name": "ナレッジ更新・レビュー",  "time": 30, "ai_cost": 6.0},
+  {"name": "FAQ自動抽出",            "time": 45, "ai_cost": 11.3},
+  {"name": "感情分析・トーン検出",    "time": 5,  "ai_cost": 0.5}
+]
